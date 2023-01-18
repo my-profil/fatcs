@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>jagadeesh personal site</title>
+</head>
+<body>
+    <table cellspacing = 20>
+        <tr> 
+            <td> <img src="image/chips (2).jpg"</td>
+            <td><h1>fatcs</h1>   
+                <p><em> it the best <strong>chips</strong> shop</p></em>
+                <p><em>it is the best chips shope in chennai  we in mylapore  nera gril box </em></p></td>
+        </tr>
+    </table>
+   
+   
+<hr>
+<h3>varites</h3>
+<ul>
+<li>onion chips</li>
+<li>potatos chips</li>
+<li>wheels chips</li>
+<li> corn chips </li>
+<a href="contact html"> my contact</a>
+</ul>
+<hr size =3 noshade="">
+
+<table cellsapcing="10"> 
+    <tr> 
+        <td> <table>
+            <tr> 
+              <th>name</th>
+              <td>✰✰✰✰</td>
+            </tr>
+            <tr> 
+              <th>stars </th>
+              <td>✰✰✰</td>
+            </tr>
+            <tr> 
+               <td> chips </td>
+               <td> ✰✰✰✰✰✰</td>
+            </tr>
+          </table>
+          <hr>
+          
+<table border="1">
+    <thead> 
+<tr> 
+    <th><strong>name</strong> </th>
+    <th><strong>years</strong> </th>
+</tr>
+    </thead>
+    <tbody> 
+<td> jagadeesh</td>
+      <td> 2003</td>
+    </tbody>
+</table>
+
+<hr size="3" noshade="0">
+
+
+</body> 
+
+</html>
